@@ -128,7 +128,7 @@ var prompts = [
             }
         }
     }
-    
+    alert("test");
     createPromptItems();
     createValueButtons();
     
