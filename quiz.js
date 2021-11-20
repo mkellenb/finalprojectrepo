@@ -36,7 +36,7 @@ var prompts = [
         class: 'group6'
     },
     {
-        prompt: 'I find it easy to walk up to a group of people and join in conversation',
+        prompt: 'I love contributing to the features that make websites really pop',
         weight: 1,
         class: 'group7'
     },
@@ -46,7 +46,7 @@ var prompts = [
         class: 'group8'
     },
     {
-        prompt: 'I like working in a team',
+        prompt: 'I like to work',
         weight: 1,
         class: 'group9'
     },
