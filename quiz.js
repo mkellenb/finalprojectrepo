@@ -189,7 +189,7 @@ var prompts = [
            Backend developers tend to be detail oriented and value organization rather than the creative design aspects of front end developer</b><br><br>';
         } else if(total > 6) {
             document.getElementById('results').innerHTML = '<b>You are a front end developer! Front end developers usually enjoy making things pretty and enjoy the creative part of employing a satisfying user experience by combining JS, CSS and HTML to make a page sparkle!</b>';
-        } else if (total > 7)
+        } else if (total > 7) {
             document.getElementById('results').innerHTML = '<b>You are a full stack developer! Full stack developers enjoy both sides of development and want to be a part of the whole process!</b><br><br>';
         }
     
