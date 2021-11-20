@@ -1,37 +1,37 @@
 
 var prompts = [
     {
-        prompt: 'I find it difficult to introduce myself to people',
+        prompt:'I like designing and styling web pages
         weight: -1,
         class: 'group0'
     },
     {
-        prompt: 'I get so lost in my thoughts I ignore or forget my surroundings',
+        prompt: 'I prefer to work with servers rather than with creative design',
         weight: -1,
         class: 'group1'
     },
     {
-        prompt: 'I do not usually initiate conversations',
+        prompt: 'I prefer Java and PHP to JavaScript and CSS and HTML',
         weight: -1,
         class: 'group2'
     },
     {
-        prompt: 'I prefer not to engage with people who seem angry or upset',
+        prompt: 'I consider myself creative',
         weight: -1,
         class: 'group3'
     },
     {
-        prompt: 'I choose my friends carefully',
+        prompt: 'I consider myself more structurally oriented',
         weight: -1,
         class: 'group4'
     },
     {
-        prompt: 'I find it difficult to tell stories about myself',
+        prompt: 'I enjoy contributing to positive user experiences',
         weight: -1,
         class: 'group5'
     },
     {
-        prompt: 'I am usually highly motivated and energetic',
+        prompt: 'I do not consider myself to be design oriented and I do not like it',
         weight: 1,
         class: 'group6'
     },
@@ -41,22 +41,22 @@ var prompts = [
         class: 'group7'
     },
     {
-        prompt: 'Being adaptable is more important than being organized',
+        prompt: 'Organization and details with tasks is very important to me',
         weight: 1,
         class: 'group8'
     },
     {
-        prompt: 'I care more about making sure no one gets upset than winning a debate',
+        prompt: 'I like working in a team',
         weight: 1,
         class: 'group9'
     },
     {
-        prompt: 'I often do not feel I have to justify myself to people',
+        prompt: 'I often tend to be over focused on my work',
         weight: 1,
         class: 'group10'
     },
     {
-        prompt: 'I would rather improvise than spend time coming up with a detailed plan',
+        prompt: 'I would rather improvise in my work instead of spending time coming up with a detailed plan',
         weight: 1,
         class: 'group11'
     }
