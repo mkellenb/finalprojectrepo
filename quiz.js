@@ -185,7 +185,7 @@ var prompts = [
         $('.results').addClass('show');
         
         if(total < 3) {
-            document.getElementById('results').innerHTML = '<b> You are a back end developer</b><br><br>\
+            document.getElementById('results').innerHTML = '<b> You are a back end developer</b><br><br>
            Backend developers tend to be detail oriented and value organization rather than the creative design aspects of front end develope</b><br><br>\
             ';
         } else if(total > 6) {
