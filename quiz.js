@@ -46,12 +46,12 @@ var prompts = [
         class: 'group8'
     },
     {
-        prompt: 'I like to work',
+        prompt: 'I like to work on collaborative teams',
         weight: 1,
         class: 'group9'
     },
     {
-        prompt: 'I often tend to be over focused on my work',
+        prompt: 'I often tend to be over focused on my work and pay attention to the details of the full picture',
         weight: 1,
         class: 'group10'
     },
