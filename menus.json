@@ -6,64 +6,61 @@
         "itemId": "00001",
         "name": "Joint",
         "description": "Two house blend beef patties, American cheese, lettuce, tomato, raw onions, pickles, joint sauce, on a potato bun",
-        "price": 8,
-        "inage": "imageurl"
+        "price": 8
       },
       {
         "itemId": "00002",
         "name": "Lamb",
-        "description": "Mediterranean spices, feta cheese, pickled cucumber, pickled tomatillo, lettuce, curry ketchup, on a potato bun
-
-",
-        "price": 10,
+        "description": "Mediterranean spices, feta cheese, pickled cucumber, pickled tomatillo, lettuce, curry ketchup, on a potato bun",
+        "price": 10
       },
       {
         "itemId": "00003",
         "name": "Wagya",
         "description": "Muenster cheese, tobacco onion, lettuce, truffle mayo, on a potato bun",
-        "price": 12,
+        "price": 12
       },
       {
         "itemId": "00004",
         "name": "Tuna",
         "description": "Medium-rare, house sesame-lime Asian slaw, pickled ginger, wasabi mayo, on a potato bun",
-        "price": 11,
+        "price": 11
       },
       {
         "itemId": "00005",
         "name": "Black Bean",
         "description": "House patty, house slaw, pickled red onion, lettuce, avocado, vegan chipotle mayo, on a potato bun",
-        "price": 9,
+        "price": 9
       },
       {
         "itemId": "00006",
         "name": "Turkey",
         "description": "House patty, sharp cheddar cheese, pickled red onion, avocado, lettuce, tomato, vegan chipotle mayo, on a potato bun",
-        "price": 8,
+        "price": 8
       },
       {
         "itemId": "00007",
         "name": "Western",
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
-        "price": 10,
+        "price": 10
       },
       {
         "itemId": "00008",
         "name": "Western",
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
-        "price": 10,
+        "price": 10
       },
         {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
-        "price": 4,
+        "price": 4
       },
       {
         "itemId": "00010",
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
-        "price": 4,
+        "price": 4
       },
       
       
@@ -74,62 +71,61 @@
         "itemId": "00001",
         "name": "CHICKEN PARMESAN",
         "description": "chicken tenders tossed w/ marinara, mozzarella & parmesan cheeses on sourdough",
-        "price": 13,
-        "inage
+        "price": 13
       },
       {
         "itemId": "00002",
         "name": "ROCK-A-DOODLE",
         "description": "fried chicken breast, bacon, pepper jack & cheddar cheese, slaw on texas toast",
-        "price": 14,
+        "price": 14
       },
       {
         "itemId": "00003",
         "name": "MEATBALL SUB",
         "description": "house-made marinara meatballs, mozzarella cheese on cuban roll",
-        "price": 13,
+        "price": 13
       },
       {
         "itemId": "00004",
         "name": "TURKEY BACON WRAP",
         "description": "smoked turkey, bacon, cheddar cheese, lettuce, tomato w/ ranch",
-        "price": 12,
+        "price": 12
       },
       {
         "itemId": "00005",
         "name": "THE CUBAN",
         "description": "pulled pork, ham, swiss cheese, dill pickles, & yellow mustard on a cuban roll",
-        "price": 14,
+        "price": 14
       },
       {
         "itemId": "00006",
         "name": "BUFFALO CHICKEN",
         "description": "buffalo-sauced chicken tenders & monterey jack on texas toast w/a side of miss fancy's ranch",
-        "price": 13,
+        "price": 13
       },
       {
         "itemId": "00007",
         "name": "FLYIN HAWAIIAN",
         "description": "ham, monterey & habanero jack cheeses & cajun grilled pineapples on pretzel roll",
-        "price": 12,
+        "price": 12
       },
       {
         "itemId": "00008",
         "name": "3 AMIGOS",
         "description": "ham, sliced chorizo, over easy egg, monterey jack & habanero jack cheeses on sourdough",
-        "price": 14,
+        "price": 14
       },
         {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
-        "price": 4,
+        "price": 4
       },
       {
         "itemId": "00010",
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
-        "price": 4,
+        "price": 4
       },
         {
     "fsq_id": "53a60cc8498e92f6ecf201b0",
@@ -138,64 +134,61 @@
         "itemId": "00001",
         "name": "Joint",
         "description": "Two house blend beef patties, American cheese, lettuce, tomato, raw onions, pickles, joint sauce, on a potato bun",
-        "price": 8,
-        "inage": "imageurl"
+        "price": 8
       },
       {
         "itemId": "00002",
         "name": "Lamb",
-        "description": "Mediterranean spices, feta cheese, pickled cucumber, pickled tomatillo, lettuce, curry ketchup, on a potato bun
-
-",
-        "price": 10,
+        "description": "Mediterranean spices, feta cheese, pickled cucumber, pickled tomatillo, lettuce, curry ketchup, on a potato bun",
+        "price": 10
       },
       {
         "itemId": "00003",
         "name": "Wagya",
         "description": "Muenster cheese, tobacco onion, lettuce, truffle mayo, on a potato bun",
-        "price": 12,
+        "price": 12
       },
       {
         "itemId": "00004",
         "name": "Tuna",
         "description": "Medium-rare, house sesame-lime Asian slaw, pickled ginger, wasabi mayo, on a potato bun",
-        "price": 11,
+        "price": 11
       },
       {
         "itemId": "00005",
         "name": "Black Bean",
         "description": "House patty, house slaw, pickled red onion, lettuce, avocado, vegan chipotle mayo, on a potato bun",
-        "price": 9,
+        "price": 9
       },
       {
         "itemId": "00006",
         "name": "Turkey",
         "description": "House patty, sharp cheddar cheese, pickled red onion, avocado, lettuce, tomato, vegan chipotle mayo, on a potato bun",
-        "price": 8,
+        "price": 8
       },
       {
         "itemId": "00007",
         "name": "Western",
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
-        "price": 10,
+        "price": 10
       },
       {
         "itemId": "00008",
         "name": "Western",
         "description": "Two house blend beef patties, Swiss cheese, bacon, pickled jalapeños, tobacco onions, BBQ sauce, on a potato bun",
-        "price": 10,
+        "price": 10
       },
         {
         "itemId": "00009",
         "name": "Fries",
         "description": "Large order of crispy hand cut french fries",
-        "price": 4,
+        "price": 4
       },
       {
         "itemId": "00010",
         "name": "Fountan Drink",
         "description": "Your choice of Coke, Sprite, Diet Coke, Dr. Pepper, Sweet Tea or unsweetend Tea",
-        "price": 4,
+        "price": 4
       },
       
       
@@ -206,32 +199,31 @@
         "itemId": "00001",
         "name": "HOT MAMA",
         "description": "Calabrian peppers, Soppressata salami, fresh mozzarella, basil, oregano, asiago, Mikes Hot Honey Drizzle",
-        "price": 21,
+        "price": 21
       },
       {
         "itemId": "00002",
         "name": "BAJALIEH SPECIAL",
         "description": "Bacon, grilled red onions, banana pepper rings",
-        "price": 17,
+        "price": 17
       },
       {
         "itemId": "00003",
         "name": "MARGHERITA",
         "description": "Red sauce, house made mozzarella, fresh basil, oregano, sea salt",
-        "price": 16,
+        "price": 16
       },
       {
         "itemId": "00004",
         "name": "BASIC PESTO",
         "description": "House Italian sausage, roasted red peppers, Alabama goat cheese, shaved red onions",
-        "price": 18,
+        "price": 18
       },
-      
         {
         "itemId": "00005",
         "name": "Bone In Chicken Wings",
         "description": "8 breaded or buffalo traditional party wings",
-        "price": 8,
+        "price": 8
       },
       {
         "itemId": "0006",
